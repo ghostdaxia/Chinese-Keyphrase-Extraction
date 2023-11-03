@@ -77,7 +77,7 @@ def get_vector(data, stop_words='english', max_df=0.5, min_df=10):
                                 max_df=max_df,
                                 min_df=min_df)
     tf = tf_vector.fit_transform(data.content_cut)
-    tf_feature_names = tf_vector.get_feature_names()
+    tf_feature_names = tf_vector.get_feature_names_out()
     return tf, tf_feature_names
 
 

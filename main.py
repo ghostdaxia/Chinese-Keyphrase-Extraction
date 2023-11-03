@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 '''
-@Project :NLP 
+@Project :NLP
 @File    :main.py
 @Author  :JackHCC
-@Date    :2022/6/12 17:34 
+@Date    :2022/6/12 17:34
 @Desc    :run main program
 
 '''
